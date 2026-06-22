@@ -2938,3 +2938,22 @@ html {
     }
 }
 
+
+/* Single Column Layout for 'Our Areas of Expertise' Section on Mobile */
+@media (max-width: 768px) {
+    #pillars .services-grid {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        gap: 32px;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #pillars .services-grid .service-card {
+        width: 100% !important;
+        max-width: none !important;
+        margin-bottom: 0 !important;
+    }
+}
