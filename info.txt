@@ -1,0 +1,74 @@
+Lovable mate aa short ane clear prompt use karo:
+
+---
+
+**PROMPT**
+
+Create a premium, modern, fully responsive corporate website for **Summit Global Services**.
+
+Use **[https://biznov.themewant.com/corporate/](https://biznov.themewant.com/corporate/)** as the primary layout, section flow, spacing, animations, and premium enterprise design reference.
+
+Use **[https://process-blossom-34.lovable.app/](https://process-blossom-34.lovable.app/)** for:
+
+* Color palette
+* Typography
+* Buttons
+* Card styles
+* Overall visual feel
+
+### Design Requirements
+
+* Light theme only (No dark backgrounds)
+* Premium corporate appearance
+* Modern SaaS + Enterprise feel
+* Large clean spacing
+* Glassmorphism effects where appropriate
+* Smooth scroll animations
+* Professional illustrations and images
+* Attractive gradients inspired by Process Blossom
+* Rounded corners (16px–24px)
+* Soft shadows
+* Mobile-first responsive design
+
+### Color Style
+
+* White background
+* Soft green gradients
+* Light green accents
+* Dark gray text
+* Elegant premium contrast
+* Avoid black sections
+
+### Visual Direction
+
+The website should feel:
+
+* Premium
+* Trustworthy
+* Enterprise-grade
+* Modern
+* Professional
+* Conversion-focused
+
+Not like a typical AI-generated template.
+
+### Images
+
+Use professional images throughout:
+
+* Legal professionals
+* Medical professionals
+* Accounting teams
+* Business consulting
+* Offshore support teams
+* Corporate meetings
+* Modern office environments
+
+### Important
+
+The final design should combine:
+
+* **Biznov's premium corporate structure**
+* **Process Blossom's colors, fonts, and clean modern aesthetics**
+
+Result should look like a high-end BPO/KPO company website worth $10,000+, with exceptional UI/UX, smooth animations, and strong visual hierarchy.
